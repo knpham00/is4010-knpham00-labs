@@ -9,7 +9,7 @@ def sum_of_evens(numbers):
     """Calculate the sum of all even numbers in a list.
 
     Parameters
-    ----------git add week02/week02_prompts.md
+    ----------
     numbers : list of int
         A list of integers.
 
@@ -73,3 +73,5 @@ def get_names_of_adults(users: list[dict]) -> list[str]:
         raise ValueError("Length and width must be positive numbers.")
     return length * width**```python
 # AI's fixed version of the code
+
+# Testing GitHub Upload
