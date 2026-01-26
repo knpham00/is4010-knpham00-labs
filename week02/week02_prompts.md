@@ -9,7 +9,7 @@ def sum_of_evens(numbers):
     """Calculate the sum of all even numbers in a list.
 
     Parameters
-    ----------
+    ----------git add week02/week02_prompts.md
     numbers : list of int
         A list of integers.
 
