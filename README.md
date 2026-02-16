@@ -2,6 +2,8 @@
 
 ![CI/CD Pipeline](https://github.com/knpham00/is4010-knpham00-labs/actions/workflows/main.yml/badge.svg)
 
+[![Week 00 - Setup Verification](https://github.com/knpham00/is4010-knpham00-labs/actions/workflows/week00.yml/badge.svg)](https://github.com/knpham00/is4010-knpham00-labs/actions/workflows/week00.yml)
+
 This repository contains all lab assignments for **IS4010: AI-Enhanced Application Development** at the University of Cincinnati's Lindner College of Business.
 
 ## 📚 Course Information
