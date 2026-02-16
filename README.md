@@ -1,6 +1,6 @@
 # IS4010 Labs - Kimberly Pham
 
-![CI/CD Pipeline](https://github.com/[knpham00]/[Is4010-knpham00-Lab]/actions/workflows/main.yml/badge.svg)
+![CI/CD Pipeline](https://github.com/knpham00/is4010-knpham00-labs/actions/workflows/main.yml/badge.svg)
 
 This repository contains all lab assignments for **IS4010: AI-Enhanced Application Development** at the University of Cincinnati's Lindner College of Business.
 
