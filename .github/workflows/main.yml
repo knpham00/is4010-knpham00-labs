@@ -33,6 +33,5 @@ jobs:
       # Step 4: Run the test suite
       - name: Test with pytest
         run: |
-          python -m pytest week06/tests/test_lab06.py
-        env:
-          PYTHONPATH: ${{ github.workspace }}/week06
+          export PYTHONPATH=$(pwd):$(find . -type d | tr '\n' ':')
+          python -m pytest
