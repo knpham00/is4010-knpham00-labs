@@ -1,6 +1,5 @@
 # IS4010 Labs - Kimberly Pham
 
-![CI/CD Pipeline](https://github.com/knpham00/is4010-knpham00-labs/actions/workflows/main.yml/badge.svg)
 
 ## Lab Status
 
